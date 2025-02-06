@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Madhura Sarkar</h1>
 <p align="center">
-  🎨 Designer | 💻 Web Developer | 🚀 Tech Enthusiast
+  🎨 Designer | 💻 Web Developer | 🚀 Learner
 </p>
 
 ---
