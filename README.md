@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="[https://media1.tenor.com/m/XzetbjaLwDMAAAAC/catdows.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNyMXRsNDV2emlwdXhlZmhjaWQ0NDVueW1rMHBsNzRyYnBlOWtpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vh1KrUr6Tvl1RFYYk6/giphy.gif)" alt="Cat GIF" style="width:100%; height:auto;">
+  <img src="https://media1.tenor.com/m/XzetbjaLwDMAAAAC/catdows.gif" alt="Cat GIF" style="width:100%; height:auto;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Madhura Sarkar</h1>
