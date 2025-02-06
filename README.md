@@ -40,10 +40,10 @@
 ---
 
 ### 📫 Let's Connect  
-💼 **LinkedIn:** [Madhura Sarkar](https://www.linkedin.com/in/madhura-sarkar-a1987b2ab/)  
-#️⃣ **Twitter:** [Madhura Sarkar](https://x.com/webstudy2024)  
-📷 **Behance:** [Madhura Sarkar](https://www.behance.net/webstudymadhura)  
-📩 **Email:** [mail](madhurasarkar0@gmail.com)  
+💼 **LinkedIn:** [Madhura Sarkar/LinkedIn](https://www.linkedin.com/in/madhura-sarkar-a1987b2ab/)  
+#️⃣ **Twitter:** [Madhura Sarkar/Twitter](https://x.com/webstudy2024)  
+📷 **Behance:** [Madhura Sarkar/Behance](https://www.behance.net/webstudymadhura)  
+📩 **Email:** [gmail.com](madhurasarkar0@gmail.com)  
 
 ---
 
