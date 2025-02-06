@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="(https://media1.tenor.com/m/XzetbjaLwDMAAAAC/catdows.gif)" alt="GIF" width="100%">
+  <img src="https://media1.tenor.com/m/XzetbjaLwDMAAAAC/catdows.gif" alt="Cat GIF" style="width:100%; height:auto;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Madhura Sarkar</h1>
