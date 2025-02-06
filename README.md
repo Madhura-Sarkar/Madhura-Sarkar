@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="(https://i.pinimg.com/originals/93/08/1e/93081e266f7f0b20778d2736978b2e84.gif)" alt="GIF" width="100%">
+  <img src="(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNyMXRsNDV2emlwdXhlZmhjaWQ0NDVueW1rMHBsNzRyYnBlOWtpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vh1KrUr6Tvl1RFYYk6/giphy.gif)" alt="GIF" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Madhura Sarkar</h1>
