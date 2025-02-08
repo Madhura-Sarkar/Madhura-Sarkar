@@ -68,3 +68,5 @@
 ---
 
 Thanks for visiting! Let's innovate and create something amazing together. 🚀✨  
+
+[![An image of @madhurasarkar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhurasarkar)](https://holopin.io/@madhurasarkar)
