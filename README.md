@@ -3,7 +3,8 @@
   <img src="https://media1.tenor.com/m/XzetbjaLwDMAAAAC/catdows.gif" alt="Cat GIF" style="width:100%; height:auto;">
 </p>
 
-<h1 align="center">Hi 👋, I'm ## [Madhura Sarkar](https://webstudy2024.netlify.app/)</h1>
+<h1 align="center">Hi 👋, I'm Madhura Sarkar</h1>
+## [Madhura Sarkar](https://webstudy2024.netlify.app/)
 <p align="center">
   🎨 Designer | 💻 Web Developer | 🚀 Learner
 </p>
